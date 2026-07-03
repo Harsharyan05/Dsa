@@ -1,3 +1,4 @@
+// Minimum Number
 #include<iostream>
 using namespace std;
 

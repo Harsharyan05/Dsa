@@ -1,3 +1,4 @@
+// Merge two array
 #include<iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+//Left rotate by one 
 #include<iostream>
 using namespace std;
 

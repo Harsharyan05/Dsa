@@ -1,3 +1,4 @@
+//Check if an Element Appears More Than Once
 #include<iostream>
 using namespace std;
 

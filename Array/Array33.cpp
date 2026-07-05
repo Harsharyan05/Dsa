@@ -1,3 +1,4 @@
+//Find Majority Element (Brute Force)
 #include<iostream>
 using namespace std;
 

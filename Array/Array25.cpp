@@ -1,3 +1,4 @@
+// Check the duplicates
 #include<iostream>
 using namespace std;
 

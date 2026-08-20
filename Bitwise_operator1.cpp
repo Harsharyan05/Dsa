@@ -1,0 +1,15 @@
+//Check if a number is odd or even using bitwise operator
+#include<iostream>
+using namespace std;
+
+int main() {
+    int n; 
+    cin >> n;
+
+    if (n & 1)
+    cout << "odd";
+    else
+    cout << "Even";
+
+    return 0;
+}
